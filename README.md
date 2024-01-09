@@ -4,6 +4,8 @@
 
 not nessicary but if you need incresed web functionality of the rpi-02w you can do a series of comands in the rerminal to help with the low ram but this can make hte sd card wear out faster so up to you  but jsut exciute the code is i have below and it should make it 2-3 times faster 
 
-step 1: sudo nano dphys-swapfile swapoff 
-step 2:
+step 1:sudo nano dphys-swapfile swapoff 
+step 2:sudo nano /etc/dphys-swapfile
+step 3:change the number in there from 100 to 2048
+step 4:
 
