@@ -10,7 +10,8 @@ set time rtc
 
 
 
-
+##librarys needed 
+micropython_DS3231
 
 not nessicary but if you need incresed web functionality of the rpi-02w you can do a series of comands in the rerminal to help with the low ram but this can make hte sd card wear out faster so up to you  but jsut exciute the code is i have below and it should make it 2-3 times faster 
 
