@@ -5,6 +5,8 @@
 lits of nots needed objects 
 wiring for relay 
 wiring for rtc
+initialise rtc to the pico 
+set time rtc
 
 
 
