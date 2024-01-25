@@ -8,12 +8,12 @@ needed to make
 
 
 -lits of notes needed  
--wiring for relay 
--wiring for relay-diagram
--wiring for rtc (done)
--wiring for rtc-diagram
--initialise rtc to the pico instructions
--set time rtc instructions
+-wiring for relay  
+-wiring for relay-diagram 
+-wiring for rtc (done) 
+-wiring for rtc-diagram 
+-initialise rtc to the pico instructions 
+-set time rtc instructions 
 
 
 
