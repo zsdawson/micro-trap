@@ -1,19 +1,19 @@
 # micro-trap
 
-### a 3d printed housing for the eletronics will hold a rpi-02w to take the pictures then the power will be managed by a arduino nano that will also send a signal to take the picture and the rpi-02w will have rtc to keep the corect time and send the pictures to a thumb drive and this will be all in one contained unit that will be make to be somewhat water proof.
+### a 3d printed housing for the electronics will hold a rpi-02w to take the pictures then the power will be managed by a arduino nano that will also send a signal to take the picture and the rpi-02w will have rtc to keep the corect time and send the pictures to a thumb drive and this will be all in one contained unit that will be make to be somewhat water proof.
 
 ##setup and install instructions 
 needed to make 
 
 
 
-lits of notes needed  
-wiring for relay 
-wiring for relay-diagram
-wiring for rtc (done)
-wiring for rtc-diagram
-initialise rtc to the pico instructions
-set time rtc instructions
+-lits of notes needed  
+-wiring for relay 
+-wiring for relay-diagram
+-wiring for rtc (done)
+-wiring for rtc-diagram
+-initialise rtc to the pico instructions
+-set time rtc instructions
 
 
 
