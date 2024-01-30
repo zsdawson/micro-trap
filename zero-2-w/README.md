@@ -1,1 +1,1 @@
-
+first thing to do is set up the raspberry pi and also probbly set the password to password to keep things simple. the next thing to do is to go and do some comands that i will show below and then and after your raspberry pi is in position then activate the cron job and every time its powered on it will take a picture on boot.
