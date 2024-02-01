@@ -14,3 +14,4 @@ DATE=$(date +"%Y-%m-%d_%H%M")
 mkdir -p /home/pi/Desktop/photos-pi  
 raspistill -o /home/pi/Desktop/photos-pi/image_$DATE.jpg  
 
+after that you need to set up the cron job 
