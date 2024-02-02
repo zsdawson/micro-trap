@@ -28,4 +28,4 @@ step 3:change the number in there from 100 to 2048
 step 4:sudo dphys-swapfile setup
 step 5:sudo nano dphys-swapfile swapon
 
-that should fix it and help a bit 
+that should fix it and help a bit aswell as make sure everything is up to date aslo make sure the camera is initilisied but ill add that step late on too just to check
